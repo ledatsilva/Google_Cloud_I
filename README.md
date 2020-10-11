@@ -15,12 +15,13 @@ Joãozinho está fazendo uma coleção de dados de todos os carros que ele já v
 * ## **Prints**:
 
 - **POST**
-![POST]()
+<img src="./img/insereCarro.png?raw=true"/>
 
 - **GET**
-	![GET]()
+<img src="./img/buscaCarro.png?raw=true"/>
+
 - **Data on Firestore**
-![Dados no Firestore]()
+
 
 * ## **Integrantes:**
  
