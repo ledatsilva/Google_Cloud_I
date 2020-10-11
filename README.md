@@ -1,4 +1,4 @@
-# Tópicos Especiais III - Trabalho I - Google Cloud
+﻿# Tópicos Especiais III - Trabalho I - Google Cloud
 
 * ## **Descrição**:
 
@@ -8,8 +8,8 @@ Joãozinho está fazendo uma coleção de dados de todos os carros que ele já v
 
 |Request Type|Link  |Content|
 |--|--|--|
-|POST  |[]()  |	{"**plate**": string, "**color**": string, "**price**": string, "**model**":string, "**brand**":string }  |
-|GET|[]()  |	{"**plate**": string }  |
+|POST  |[https://us-central1-trabalho-function.cloudfunctions.net/insereCarro]()  |	{"**placa**": string, "**cor**": string, "**preco**": string, "**modelo**":string, "**marca**":string }  |
+|GET|[https://us-central1-trabalho-function.cloudfunctions.net/buscaCarro]()  |	{"**placa**": string }  |
 
 
 * ## **Prints**:
